@@ -1,0 +1,1 @@
+# Shpargalki_po_SQL
