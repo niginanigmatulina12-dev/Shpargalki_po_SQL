@@ -29,7 +29,8 @@ WHERE id = 1;
 2. DELETE FROM app_users WHERE id = 3;  
 Если же выполнить запрос DELETE FROM app_users;, всё содержимое таблицы удалится, но сама структура таблицы будет прежней.  
 Здесь правило то же, что и в UPDATE: обязательно используй WHERE, чтобы случайно не удалить всё.
-<img width="886" height="393" alt="image" src="https://github.com/user-attachments/assets/63a631fc-7632-45bb-b4a1-731e3af654cb" />
+<img width="808" height="419" alt="image" src="https://github.com/user-attachments/assets/7bf1cfdc-45fd-474e-ac8d-773845ac4c8f" />
+
 
 
 
